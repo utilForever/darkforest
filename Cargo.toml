@@ -1,0 +1,16 @@
+[package]
+name = "darkforest"
+version = "0.0.1"
+authors = [
+    "Chris Ohk <utilforever@gmail.com>",
+    "Namkyu Park <lak9348@gmail.com>"
+]
+edition = "2021"
+description = "A console and web-based Roguelike written in Rust and WebAssembly"
+
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
