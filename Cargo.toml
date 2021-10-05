@@ -3,7 +3,8 @@ name = "darkforest"
 version = "0.0.1"
 authors = [
     "Chris Ohk <utilforever@gmail.com>",
-    "Namkyu Park <lak9348@gmail.com>"
+    "Namkyu Park <lak9348@gmail.com>",
+    "Jongun Jeong <skeep194@knu.ac.kr>"
 ]
 edition = "2018"
 description = "A console and web-based Roguelike written in Rust and WebAssembly"
